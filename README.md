@@ -50,7 +50,7 @@ python main.py
 
 
 📦 Requirements
-No additional libraries are needed. Just ensure you have Python 3+ installed.
+No additional libraries are needed except import click...Just ensure you have Python 3+ installed.
 ________________________________________
 🎓 Ideal For
 
