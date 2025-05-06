@@ -48,6 +48,7 @@ Run the Python file:
 
 python app.py
 
+
 📦 Requirements
 No additional libraries are needed. Just ensure you have Python 3+ installed.
 ________________________________________
