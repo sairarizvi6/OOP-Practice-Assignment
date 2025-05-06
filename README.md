@@ -46,7 +46,7 @@ cd 01_Using_Self
 
 **Run the Python file**:
 
-python app.py
+python main.py
 
 
 📦 Requirements
