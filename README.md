@@ -64,5 +64,5 @@ These assignments are perfect for:
 ________________________________________
 “Every line of code you write is a step closer to mastery.” – Anonymous
 
-Keep building, keep breaking, keep improving. Happy coding! 🚀
+**Keep building, keep breaking, keep improving. Happy coding**! 🚀
 
