@@ -38,9 +38,11 @@ These assignments are structured to provide hands-on experience with the followi
 | 20 | Custom Exceptions                | Define and handle your own exceptions                             |
 | 21 | Custom Iterable                  | Countdown iterator using `__iter__ () ` and `__next__ () `        |
 
-## 🛠️ How to Run
+✅ How to Run
+Navigate into the folder of the assignment:
+cd 01_Using_Self
 
-****Run the Python file****
+Run the Python file:
 python app.py
 
 📦 Requirements
