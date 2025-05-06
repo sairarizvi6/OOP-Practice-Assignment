@@ -49,8 +49,11 @@ ________________________________________
 🎓 Ideal For
 
 These assignments are perfect for:
+
 •	Students learning traditional OOP in Python
+
 •	Beginners who want to strengthen their understanding of classes, objects, and related concepts
+
 •	Anyone preparing for OOP-based coding interviews or assessments
 ________________________________________
 “Every line of code you write is a step closer to mastery.” – Anonymous
