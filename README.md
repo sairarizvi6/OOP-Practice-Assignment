@@ -16,14 +16,14 @@ These assignments are structured to provide hands-on experience with the followi
 ## 🧠 Assignment Topics
 | # | Concept                           | Description                                                       |
 |----|----------------------------------|-------------------------------------------------------------------|
-| 01 | `self`                           | Initialize and display student attributes                         |
-| 02 | `cls` and Class Variable         | Count number of instances using class method                      |
+| 01 | `Self`                           | Initialize and display student attributes                         |
+| 02 | `Cls` and Class Variable         | Count number of instances using class method                      |
 | 03 | Public Access                    | Access public variables and methods externally                    |
 | 04 | Class Variables & Methods        | Demonstrate variable sharing across instances                     |
 | 05 | Static Method                    | Utility method independent of class or object                     |
 | 06 | Constructor & Destructor         | Message on object creation and deletion                           |
 | 07 | Access Modifiers                 | Use of public, protected, and private variables                   |
-| 08 | `super () `                      | Call parent class constructor from child class                    |
+| 08 | `Super () `                      | Call parent class constructor from child class                    |
 | 09 | Abstract Class (`ABC`)           | Define and implement abstract methods                             |
 | 10 | Instance Method                  | Access instance variables in method                               |
 | 11 | Class Method (Book Tracker)      | Count books using class method                                    |
